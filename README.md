@@ -1,5 +1,9 @@
 # Codex Tokenomics UI
 
+Heavily inspired by [Spendgeist](https://github.com/rkishony/Spendgeist), the
+agent cost monitor for Cursor. See screenshots and install it at
+[agentcostmonitor.com](https://agentcostmonitor.com/).
+
 Local read-only dashboard for the `codex-tokenomics` SQLite database.
 
 ## Run
